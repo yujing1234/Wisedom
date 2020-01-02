@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "588857",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1917760",
+      "name": "录像",
+      "font_class": "luxiang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "3977794",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "4376592",
+      "name": "价格",
+      "font_class": "ziyuan",
+      "unicode": "e557",
+      "unicode_decimal": 58711
+    },
+    {
+      "icon_id": "7564152",
+      "name": "点赞",
+      "font_class": "fabulous",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "8068691",
+      "name": "收 藏",
+      "font_class": "favor-active",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

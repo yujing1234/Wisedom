@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "286354",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "1386259",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "3451618",
+      "name": "风车",
+      "font_class": "fengche",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7391533",
+      "name": "分类 功能 类目",
+      "font_class": "fenlei2",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}

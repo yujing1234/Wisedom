@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "621478",
+      "name": "学历要求",
+      "font_class": "iconfontshu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2535090",
+      "name": "收入排行",
+      "font_class": "shourupaihang",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "3038165",
+      "name": "热度排行",
+      "font_class": "redupaihang",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "5190066",
+      "name": "发展前景",
+      "font_class": "fazhanqianjing",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "11713784",
+      "name": "行业分类",
+      "font_class": "hangyefenlei",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
